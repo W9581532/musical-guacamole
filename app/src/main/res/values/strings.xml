@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirstApp</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="user_name">User name:</string>
+    <string name="password">Password:</string>
+    <string name="confrimation">confrimation</string>
+    <string name="enter_user_id">Enter User id</string>
+    <string name="name">Name</string>
+    <string name="enter_password">Enter Password</string>
 </resources>
